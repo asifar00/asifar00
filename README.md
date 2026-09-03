@@ -8,8 +8,6 @@
 
 ### Aspiring Full Stack Web Developer & Competitive Programmer | CSE Student
 
-<p> <a href="https://github.com/asifar00">GitHub</a> • <a href="https://www.linkedin.com/in/asif-ar">LinkedIn</a> • <a href="https://www.facebook.com/asif.ar.9619934">Facebook</a> </p>
-
 </div>
 
 <br/>
