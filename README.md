@@ -50,7 +50,7 @@ I learn best by building rather than passively following tutorials, so most of m
 
 ## 🌐 Connect With Me
 
-<div>
+<div align="center">
 
 <a href="https://github.com/asifar00" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
@@ -66,7 +66,13 @@ I learn best by building rather than passively following tutorials, so most of m
 
 <br/>
 
-## 📊 GitHub Statistics
+---
+
+<p align="center">
+  <img src="https://mystate.devabir.me/api/stats?username=asifar00&template=pro-dashboard&theme=dark" width="100%" alt="My GitHub Stats" />
+</p>
+
+<!--## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -89,11 +95,9 @@ I learn best by building rather than passively following tutorials, so most of m
 
 </div>
 
-<br/>
+<br/> -->
 
 <!--## 🚀 Featured Projects -->
-
-<!-- 👉 Replace with your real repositories. Remove the demo link row for projects without a live demo. -->
 
 <!--| Project | Description | Tech Stack | Links |
 |---|---|---|---|
