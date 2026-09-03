@@ -85,31 +85,22 @@ I learn best by building rather than passively following tutorials, so most of m
 
 <div align="center">
 
-<!-- 👉 This animated snake graph requires a small GitHub Actions workflow.
-     1. Create .github/workflows/snake.yml in this repository.
-     2. Use the official action: https://github.com/Platane/snk
-     3. The workflow generates github-contribution-grid-snake.svg on a schedule
-        and commits it to an "output" branch.
-     4. Point the <img> src below to that generated SVG once the workflow has run once. -->
-
 <img src="https://raw.githubusercontent.com/asifar00/asifar00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
-> If you'd rather skip this, simply remove this section — the rest of the README works fine without it.
-
 <br/>
 
-## 🚀 Featured Projects
+<!--## 🚀 Featured Projects -->
 
 <!-- 👉 Replace with your real repositories. Remove the demo link row for projects without a live demo. -->
 
-| Project | Description | Tech Stack | Links |
+<!--| Project | Description | Tech Stack | Links |
 |---|---|---|---|
 | **[Project Name](PROJECT_URL)** | Short description of what this project does and the problem it solves. | HTML, CSS, JavaScript | [Repo](PROJECT_URL) · [Live Demo](LIVE_DEMO_URL) |
 | **[Project Name](PROJECT_URL)** | Short description of what this project does and the problem it solves. | React, Tailwind CSS | [Repo](PROJECT_URL) · [Live Demo](LIVE_DEMO_URL) |
 
-<br/>
+<br/> -->
 
 <div align="center">
 
@@ -126,7 +117,6 @@ I learn best by building rather than passively following tutorials, so most of m
 
 Thanks for visiting my profile! Let's build something meaningful together. 🚀
 
-<!-- Optional profile-view counter — remove if you'd rather keep it minimal -->
 <img src="https://komarev.com/ghpvc/?username=asifar00&style=flat&color=blue" alt="Profile Views" />
 
 </div>
