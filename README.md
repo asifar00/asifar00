@@ -72,6 +72,19 @@ I learn best by building rather than passively following tutorials, so most of m
   <img src="https://mystate.devabir.me/api/stats?username=asifar00&template=pro-dashboard&theme=dark" width="100%" alt="My GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://mystate.devabir.me/api/stats?username=asifar00&template=compact-strip&theme=glass" width="100%" alt="My GitHub Stats" />
+</p>
+
+
+---
+
+<p align="center">
+  <img 
+    src="https://hits.sh/github.com/asifar00.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=000000" 
+  />
+</p>
+
 <!--## 📊 GitHub Statistics
 
 <div align="center">
