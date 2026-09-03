@@ -22,13 +22,11 @@ I learn best by building rather than passively following tutorials, so most of m
 
 ## 🚀 What I'm Currently Working On
 
-- 🌱 Exploring React and modern full-stack development
-- ⚛️ Deepening my understanding of React and TypeScript
-- 🎨 Improving my frontend skills with Tailwind CSS
-- 🛠️ Building practical web projects to strengthen my development skills
-- 💻 Practicing programming and problem-solving
-- 📚 Learning backend development, APIs, and databases
-- 🔍 Exploring how modern production-ready web applications are structured
+- 🌱 Deepening my knowledge of React, TypeScript, and Tailwind CSS
+- 🛠️ Building practical projects to strengthen my frontend development skills
+- 💻 Improving my programming and problem-solving abilities
+- 📚 Beginning my journey into backend development, APIs, and databases
+- 🔭 Exploring how modern production-ready web applications are designed and structured
 
 <br/>
 
@@ -40,13 +38,22 @@ I learn best by building rather than passively following tutorials, so most of m
 
 **Frontend** &nbsp;<sub>(actively learning)</sub>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=react,tailwind" alt="React, Tailwind CSS" />
 
 **Tools**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 
 <br/>
+
+---
+
+<p align="center">
+  <img src="https://mystate.devabir.me/api/stats?username=asifar00&template=pro-dashboard&theme=dark" width="100%" alt="My GitHub Stats" />
+</p>
+
+
+---
 
 ## 🌐 Connect With Me
 
@@ -65,17 +72,6 @@ I learn best by building rather than passively following tutorials, so most of m
 </div>
 
 <br/>
-
----
-
-<p align="center">
-  <img src="https://mystate.devabir.me/api/stats?username=asifar00&template=pro-dashboard&theme=dark" width="100%" alt="My GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://mystate.devabir.me/api/stats?username=asifar00&template=compact-strip&theme=glass" width="100%" alt="My GitHub Stats" />
-</p>
-
 
 ---
 
