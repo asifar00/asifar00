@@ -85,55 +85,12 @@ I learn best by building rather than passively following tutorials, so most of m
   />
 </p>
 
-<!--## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=asifar00&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Asif's GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifar00&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifar00&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
-
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/asifar00/asifar00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
-<br/> -->
-
-<!--## 🚀 Featured Projects -->
-
-<!--| Project | Description | Tech Stack | Links |
-|---|---|---|---|
-| **[Project Name](PROJECT_URL)** | Short description of what this project does and the problem it solves. | HTML, CSS, JavaScript | [Repo](PROJECT_URL) · [Live Demo](LIVE_DEMO_URL) |
-| **[Project Name](PROJECT_URL)** | Short description of what this project does and the problem it solves. | React, Tailwind CSS | [Repo](PROJECT_URL) · [Live Demo](LIVE_DEMO_URL) |
-
-<br/> -->
-
-<div align="center">
-
-### 💭 
-*"Consistency beats intensity — a little better every day."*
-
-</div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-Thanks for visiting my profile! Let's build something meaningful together. 🚀
-
-<img src="https://komarev.com/ghpvc/?username=asifar00&style=flat&color=blue" alt="Profile Views" />
+### 💭 
+*"Consistency beats intensity — a little better every day."*
 
 </div>
