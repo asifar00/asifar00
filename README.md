@@ -6,7 +6,7 @@
 
 # Hi 👋, I'm Asif Ahmed Rifat
 
-### Aspiring Full Stack Web Developer & Competitive Programmer | CSE Student
+### Aspiring Full Stack Web Developer & Competitive Programmer
 
 </div>
 
@@ -46,14 +46,13 @@ I learn best by building rather than passively following tutorials, so most of m
 
 <br/>
 
----
+## 📊 GitHub Statistics
 
 <p align="center">
   <img src="https://mystate.devabir.me/api/stats?username=asifar00&template=pro-dashboard&theme=dark" width="100%" alt="My GitHub Stats" />
 </p>
 
-
----
+<br/>
 
 ## 🌐 Connect With Me
 
@@ -86,5 +85,13 @@ I learn best by building rather than passively following tutorials, so most of m
 
 ### 💭 
 *"Consistency beats intensity — a little better every day."*
+
+</div>
+
+---
+
+<div align="center">
+
+Thanks for visiting my profile! Let's build something meaningful together. 🚀
 
 </div>
