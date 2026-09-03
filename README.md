@@ -8,6 +8,8 @@
 
 ### Aspiring Full Stack Web Developer & Competitive Programmer | CSE Student
 
+<p> <a href="https://github.com/asifar00">GitHub</a> • <a href="https://www.linkedin.com/in/asif-ar">LinkedIn</a> • <a href="https://www.facebook.com/asif.ar.9619934">Facebook</a> </p>
+
 </div>
 
 <br/>
@@ -75,14 +77,12 @@ I learn best by building rather than passively following tutorials, so most of m
 
 ---
 
-<p align="center">
+<!--<p align="center">
   <img 
     src="https://hits.sh/github.com/asifar00.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=000000" 
   />
-</p>
+</p> -->
 
-
----
 
 <div align="center">
 
