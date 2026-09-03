@@ -1,59 +1,132 @@
+<div align="center">
+
+![Asif Ahmed Rifat - Aspiring Full Stack Web Developer](./images/banner0.png)
+
+<br/>
+
 # Hi 👋, I'm Asif Ahmed Rifat
 
-### Aspiring Full Stack Web Developer | Competitive Programming Enthusiast
+### Aspiring Full Stack Web Developer & Competitive Programmer | CSE Student
 
-I'm a CSE student passionate about building things for the web and solving programming problems.
+</div>
 
-### 🚀 Currently
+<br/>
 
-- 🌱 Learning **React, TypeScript & Tailwind CSS**
-- 💻 Building projects to improve my web development skills
-- 🧠 Exploring **Competitive Programming & Data Structures and Algorithms**
-- 🎯 Working toward becoming a professional **Full Stack Web Developer**
+## 👨‍💻 About Me
 
-### 🛠️ Tech Stack
+I'm a Computer Science & Engineering student from Bangladesh who got hooked on programming the moment I realized I could build things that actually work — not just read about how they work. Right now I'm laying the foundation for full-stack development, starting with the frontend and steadily working my way toward the backend.
+
+I learn best by building rather than passively following tutorials, so most of my growth comes from small real-world projects, breaking things, and figuring out how to fix them. I care about writing code that's clean and easy to understand, and outside of web development, I enjoy solving programming problems to sharpen my problem-solving skills. My long-term goal is simple: become a solid, professional full-stack developer.
+
+<br/>
+
+## 🚀 What I'm Currently Working On
+
+- 🌱 Exploring React and modern full-stack development
+- ⚛️ Deepening my understanding of React and TypeScript
+- 🎨 Improving my frontend skills with Tailwind CSS
+- 🛠️ Building practical web projects to strengthen my development skills
+- 💻 Practicing programming and problem-solving
+- 📚 Learning backend development, APIs, and databases
+- 🔍 Exploring how modern production-ready web applications are structured
+
+<br/>
+
+## 🛠️ Skills & Technologies
 
 **Languages**
 
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,c" alt="HTML, CSS, JavaScript, TypeScript, C" />
 
-**Currently Learning**
+**Frontend** &nbsp;<sub>(actively learning)</sub>
 
-- React
-- Tailwind CSS
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" />
 
-**Interested In**
+**Tools**
 
-- Full Stack Web Development
-- Competitive Programming
-- Data Structures & Algorithms
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub, VS Code" />
 
-### 📚 My Learning Journey
+<br/>
 
-I'm focused on learning by building projects, solving problems, and continuously improving my programming fundamentals.
+## 🌐 Connect With Me
 
-### 🤝 Connect With Me
+<div align="center">
 
-- LinkedIn: asif-ar
+<a href="https://github.com/asifar00" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+</a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/asif-ar" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" />
+</a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/asif.ar.9619934" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" height="40" />
+</a>
+
+</div>
+
+<br/>
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=asifar00&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Asif's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifar00&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asifar00&theme=dark&hide_border=true" alt="GitHub Streak Stats" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+<!-- 👉 This animated snake graph requires a small GitHub Actions workflow.
+     1. Create .github/workflows/snake.yml in this repository.
+     2. Use the official action: https://github.com/Platane/snk
+     3. The workflow generates github-contribution-grid-snake.svg on a schedule
+        and commits it to an "output" branch.
+     4. Point the <img> src below to that generated SVG once the workflow has run once. -->
+
+<img src="https://raw.githubusercontent.com/asifar00/asifar00/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+
+</div>
+
+> If you'd rather skip this, simply remove this section — the rest of the README works fine without it.
+
+<br/>
+
+## 🚀 Featured Projects
+
+<!-- 👉 Replace with your real repositories. Remove the demo link row for projects without a live demo. -->
+
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **[Project Name](PROJECT_URL)** | Short description of what this project does and the problem it solves. | HTML, CSS, JavaScript | [Repo](PROJECT_URL) · [Live Demo](LIVE_DEMO_URL) |
+| **[Project Name](PROJECT_URL)** | Short description of what this project does and the problem it solves. | React, Tailwind CSS | [Repo](PROJECT_URL) · [Live Demo](LIVE_DEMO_URL) |
+
+<br/>
+
+<div align="center">
+
+### 💭 
+*"Consistency beats intensity — a little better every day."*
+
+</div>
+
+<br/>
 
 ---
 
-⭐ Thanks for visiting my profile!
+<div align="center">
 
-<!--
-**asifar00/asifar00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for visiting my profile! Let's build something meaningful together. 🚀
 
-Here are some ideas to get you started:
+<!-- Optional profile-view counter — remove if you'd rather keep it minimal -->
+<img src="https://komarev.com/ghpvc/?username=asifar00&style=flat&color=blue" alt="Profile Views" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
