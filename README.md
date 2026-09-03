@@ -50,7 +50,7 @@ I learn best by building rather than passively following tutorials, so most of m
 
 ## 🌐 Connect With Me
 
-<div align="center">
+<div>
 
 <a href="https://github.com/asifar00" target="_blank">
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
